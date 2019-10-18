@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hint_Name">Nama</string>
+    <string name="hint_Email">Email</string>
+    <string name="hint_Address">Alamat</string>
+    <string name="hint_Phone">Nomor Handpone</string>
+    <string name="hint_Password">Kata Sandi</string>
+    <string name="cekbox">Saya telah membaca dan menyetujui persyaratan</string>
+    <string name="button">Save</string>
+</resources>

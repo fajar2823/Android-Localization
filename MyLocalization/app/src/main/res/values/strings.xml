@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyLocalization</string>
+    <string name="hint_Name">Name</string>
+    <string name="hint_Email">Email</string>
+    <string name="hint_Address">Address</string>
+    <string name="hint_Phone">Phone Number</string>
+    <string name="hint_Password">Password</string>
+    <string name="cekbox">I have read and  agree the terms</string>
+    <string name="button">Simpan</string>
+</resources>
